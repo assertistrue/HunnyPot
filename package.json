@@ -1,0 +1,20 @@
+{
+  "name": "hunnypot",
+  "version": "0.1.0",
+  "description": "Hello World boilerplating scripts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/HelloWorld.js",
+    "start2": "node src/index.js"
+  },
+  "keywords": [
+    "engine", "Hello World"
+  ],
+  "author": "Assert.IsTrue",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "typescript": "^2.6.2"
+  }
+}
